@@ -1,5 +1,3 @@
-# ag42racingbook
- Portfolio del proyecto del eBook del ¼ de milla argentino desarrollado por Gabriel Ayul.
 # 🏁 AG42 Racing Book – Primer eBook del ¼ de Milla Argentino 🇦🇷
 
 **Bienvenidos al portfolio oficial del proyecto AG42 Racing Book**, un desarrollo 100% personal que combina más de 20 años de experiencia en automovilismo deportivo con herramientas modernas de inteligencia artificial, diseño y desarrollo web.
@@ -16,10 +14,10 @@ Es la **primera guía instructiva digital del ¼ de milla en Argentina**, pensad
 
 - 🛠️ [Bolt CMS](https://bolt.cm/) – Desarrollo de la landing page
 - 🎨 [Canva](https://www.canva.com/) – Diseño visual del eBook y recursos gráficos
-- 🤖 **IA Generativa** (ChatGPT + DALL·E) – Asistencia en redacción, estructura y material visual
+- 🤖 **IA Generativa** (ChatGPT + DALL·E) – Asistencia en redacción, estructura y contenido visual
 - 🌐 [Netlify](https://www.netlify.com/) – Hosting gratuito para la landing page
 - 🛒 [Mercado Pago API](https://www.mercadopago.com.ar/developers/es) – Integración de pagos
-- 📂 Google Drive – Entrega del eBook tras pago
+- 📂 Google Drive – Entrega automática del eBook tras el pago
 
 ---
 
@@ -29,13 +27,25 @@ Es la **primera guía instructiva digital del ¼ de milla en Argentina**, pensad
 
 ---
 
-## 📷 Capturas del proyecto
+## 📷 Capturas del Proyecto
 
-### 📄 Página principal
-![landing](docs/ag42pagina.jpg)
+### 🚦 Portada introductoria
+![Intro](docs/Ag42 intro.jpg)
 
-### 📘 Diseño del eBook
-![ebook-preview](docs/ag42-book.jpg)
+### 🏁 Página principal del sitio
+![Landing](docs/Ag42 Pagina.jpg)
+
+### 📘 Vista previa del contenido del eBook
+![eBook Preview](docs/Ag42 book.jpg)
+
+---
+
+## 🎥 Video promocional del proyecto
+
+Podés ver una animación de introducción al estilo semáforo drag aquí:  
+👉 [Ver video promocional](docs/Video42.mp4)
+
+(💡 Tip: GitHub no muestra el video incrustado, pero podés descargarlo o abrirlo en otra pestaña)
 
 ---
 
@@ -49,22 +59,19 @@ Este proyecto busca compartir conocimientos, difundir la cultura del ¼ de milla
 
 ## 💡 Lecciones aprendidas
 
-- Planificar y lanzar un producto digital completo desde la idea hasta la venta
-- Aplicar herramientas de automatización y diseño sin necesidad de programar en profundidad
-- Validar un producto basado en pasión y experiencia, combinando tecnología y cultura automotor
+- Cómo lanzar un producto digital completo (contenido + diseño + venta)
+- Cómo aplicar herramientas sin código y automatizar flujos
+- Cómo combinar una pasión con oportunidades reales de monetización
 
 ---
 
 ## 🤝 Contacto
 
-Si te interesa saber más sobre este tipo de proyectos o querés trabajar en algo similar, ¡no dudes en escribirme!
-
 📩 **Gabriel Ayul**  
 📱 WhatsApp: [+54 9 297 413-2691](https://wa.me/5492974132691)  
 📧 Email: gayul@interlog.com.ar  
-🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul-333b2b79/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul/)  
 
 ---
 
-> 🚀 Este es solo el primer paso. Esperamos que AG42 Racing Book sea el inicio de una serie de contenidos formativos sobre el automovilismo argentino.
-
+> 🚦 ¡Listo para correr! Este es solo el primer eBook… y vamos por más. Gracias por ser parte de este proyecto.
