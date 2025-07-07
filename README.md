@@ -32,10 +32,10 @@ Es la **primera guía instructiva digital del ¼ de milla en Argentina**, pensad
 ## 📷 Capturas del proyecto
 
 ### 📄 Página principal
-![landing](docs/landing-ag42.jpg)
+![landing](docs/ag42pagina.jpg)
 
 ### 📘 Diseño del eBook
-![ebook-preview](docs/ebook-ag42-preview.jpg)
+![ebook-preview](docs/ag42-book.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ Si te interesa saber más sobre este tipo de proyectos o querés trabajar en alg
 📩 **Gabriel Ayul**  
 📱 WhatsApp: [+54 9 297 413-2691](https://wa.me/5492974132691)  
 📧 Email: gayul@interlog.com.ar  
-🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul-333b2b79/)  
 
 ---
 
