@@ -69,7 +69,7 @@ Este proyecto busca compartir conocimientos, difundir la cultura del ¼ de milla
 
 📩 **Gabriel Ayul**  
 📱 WhatsApp: [+54 9 297 413-2691](https://wa.me/5492974132691)  
-📧 Email: gayul@interlog.com.ar  
+📧 Email: ayulgabriel@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul/)
 
 ---
