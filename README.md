@@ -30,22 +30,22 @@ Es la **primera guía instructiva digital del ¼ de milla en Argentina**, pensad
 ## 📷 Capturas del Proyecto
 
 ### 🚦 Portada introductoria
-![Intro](docs/Ag42 intro.jpg)
+<img src="docs/Ag42 intro.jpg" alt="Intro" width="400"/>
 
 ### 🏁 Página principal del sitio
-![Landing](docs/Ag42 Pagina.jpg)
+<img src="docs/Ag42 Pagina.jpg" alt="Landing" width="400"/>
 
 ### 📘 Vista previa del contenido del eBook
-![eBook Preview](docs/Ag42 book.jpg)
+<img src="docs/Ag42 book.jpg" alt="eBook Preview" width="400"/>
 
 ---
 
 ## 🎥 Video promocional del proyecto
 
 Podés ver una animación de introducción al estilo semáforo drag aquí:  
-👉 [Ver video promocional](docs/Video42.mp4)
+👉 [Ver video promocional](https://github.com/Ayulgabriel42/ag42racingbook/blob/main/docs/Video42.mp4?raw=true)
 
-(💡 Tip: GitHub no muestra el video incrustado, pero podés descargarlo o abrirlo en otra pestaña)
+_(💡 GitHub no muestra el video embebido si pesa más de 8 MB, pero podés descargarlo o verlo haciendo clic en el enlace.)_
 
 ---
 
@@ -70,7 +70,7 @@ Este proyecto busca compartir conocimientos, difundir la cultura del ¼ de milla
 📩 **Gabriel Ayul**  
 📱 WhatsApp: [+54 9 297 413-2691](https://wa.me/5492974132691)  
 📧 Email: gayul@interlog.com.ar  
-🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-ayul/)
 
 ---
 
